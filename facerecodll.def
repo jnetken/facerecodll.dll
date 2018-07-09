@@ -1,0 +1,4 @@
+LIBRARY facerecodll
+EXPORTS 
+GetFeature @ 1
+FaceMatch @ 2
